@@ -6,7 +6,7 @@ Este ejercicio tiene como objetivo verificar si una palabra o frase es un palín
 
 La función `is_palindrome(word: str) -> bool` toma una cadena de texto como entrada y devuelve True si es un palíndromo y False si no lo es.
 
-## Ejemplos
+### Ejemplo de uso
 
 ```python
 >>> is_palindrome("Abba")
