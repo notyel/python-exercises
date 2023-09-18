@@ -2,7 +2,7 @@
 
 Este programa toma una cadena de texto como entrada y cuenta cuántas veces aparece cada palabra en el texto. El conteo es insensible a mayúsculas/minúsculas y elimina los signos de puntuación alrededor de las palabras.
 
-## Función `count_words`
+## Descripción - Función `count_words`
 
 La función `count_words(text: str) -> dict` realiza el conteo de palabras. Toma una cadena de texto como entrada y devuelve un diccionario con las palabras como claves y sus conteos como valores.
 
