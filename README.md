@@ -24,4 +24,4 @@ Si tienes ejercicios interesantes en Python que te gustaría agregar a este repo
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
-¡Diviértete programando en Python!
+¡**Diviértete programando en Python**!
